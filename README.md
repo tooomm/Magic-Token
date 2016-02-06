@@ -2,7 +2,9 @@ Magic-Token
 =================
 
 This repo contains tokens information in [Cockatrice](http://github.com/cockatrice/cockatirce)'s XML card database format for Magic: The Gathering
+<br>
 
-For normal tokens, save the file found here: [**tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)
+To add/download tokens manually, safe the XML database with a right click on the file &rarr; `Save Link As...`<br>
 
-For tokens from the Theros block challege decks, save the file found here: [**challenge_tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_tokens.xml)
+- Normal tokens: [**tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)<br>
+- Challenge decks tokens (Theros block):  [**challenge_tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_tokens.xml)
