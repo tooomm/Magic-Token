@@ -8,4 +8,4 @@ The Oracle Importer will automatically pull the normal token file from here.<br>
 *(not perfect, because no description on how to import to the programm - needed? good change at all?)*<br>
 
 - Normal tokens: [**tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml)<br>
-- Challenge deck tokens (Theros block):  [**challenge_tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_tokens.xml)
+- Tokens from the challenge decks (Theros block):  [**challenge_tokens.xml**](https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/challenge_tokens.xml)
