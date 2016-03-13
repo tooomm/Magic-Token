@@ -2,6 +2,9 @@ Magic-Token
 =================
 
 This repo contains tokens information in [Cockatrice](http://github.com/cockatrice/cockatirce)'s XML card database format for Magic: The Gathering.
+
+(dae suggestion: contains a Cockatrice-format cards.xml containing tokens / also fixes grammar)
+
 <br><br><br>
 The Oracle Importer will automatically pull the normal token file from here.<br>
 **To add tokens manually to Cockatrice, safe the XML database with a right click on the file &rarr; `Save Link As...`**
